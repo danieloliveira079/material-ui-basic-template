@@ -5,9 +5,7 @@ This is the documentation site for [Material-UI](http://callemall.github.io/mate
 ## Installation
 After cloning the repository, install dependencies:
 ```
-cd <project folder>/material-ui
-npm install
-cd <project folder>/material-ui/docs
+cd <project folder>
 npm install
 ```
 
